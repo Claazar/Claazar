@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello, World!
 
-<!--
-**Claazar/Claazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####About Me
 
-Here are some ideas to get you started:
+I am a Swiss apprentice near Zürich and always excited to Learn new things!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning many different coding Languages.
+- 👯 Always keen to meet new people from around the World.
+- 🤔 When I cant sleep at night I wonder how AI will change the IT-Job in the near future.
+- 💬 Ask me about food! (I love food)
+- 📫 You can reach me via Discord with the username "claazar".
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have been offered Coffee at every IT job that I have trialed at. (Im more of a Tea person)
+  
+
